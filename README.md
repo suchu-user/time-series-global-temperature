@@ -1,6 +1,6 @@
 # Time-Series Analysis of Global Temperature Data
 
-Summer Internship Project 2026 — IDEAS (Institute of Data Engineering, Analytics and Science Foundation), ISI Kolkata.
+Summer Internship Project 2026 — Institute of Data Engineering, Analytics and Science Foundation, ISI Kolkata.
 
 **Author:** Suchethan PH
 **Period:** 18 May 2026 – 14 June 2026
